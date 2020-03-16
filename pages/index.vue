@@ -1,6 +1,6 @@
 <template>
   <section class="container">
-    <h1 class="title">My Nuxt Blog App</h1>
+    <button @click="$router.push('/products')">Products</button>
   </section>
 </template>
 
