@@ -1,0 +1,19 @@
+{
+  "name": "nuxt-vue-on-steroid",
+  "version": "1.0.0",
+  "description": "My first-rate Nuxt.js project",
+  "author": "Gen Vikat",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {
+    "@nuxtjs/tailwindcss": "^1.0.0"
+  }
+}
