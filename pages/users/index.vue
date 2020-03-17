@@ -1,12 +1,12 @@
 <template>
-	<h1>The Users View</h1>
+  <div>
+    <Header />
+    <p>Please enter an id and click the button.</p>
+  </div>
 </template>
 
 <script>
 export default {
-  name: 'users',
+  layout: 'users'
 }
 </script>
-
-<style lang="css" scoped>
-</style>
